@@ -1,0 +1,13 @@
+button {
+  width: 100%;
+  height: 50px;
+  padding: 10px;
+  border: none;
+  background-color: rebeccapurple;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 15px;
+  color: white;
+  cursor: pointer;
+}
