@@ -9,9 +9,7 @@ button {
   border-radius: 6px;
   font-weight: bolder;
   cursor: pointer;
+  &:active {
+    transform: scale(0.99);
+  }
 }
-button:active {
-  transform: scale(0.99);
-}
-
-/*# sourceMappingURL=formbtn.css.map */
